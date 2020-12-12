@@ -5,3 +5,5 @@ bin
 *.class
 *.project
 *.classpath
+.idea
+.gradle
